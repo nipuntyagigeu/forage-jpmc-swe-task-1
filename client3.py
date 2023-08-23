@@ -2,7 +2,7 @@ import json
 import random
 import urllib.request
 
-# Server API URLs
+# Server API URLs.
 QUERY = "http://localhost:8080/query?id={}"
 
 # 500 server request
